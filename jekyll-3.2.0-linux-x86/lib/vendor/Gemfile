@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+ruby '2.1.5'
+
+gem 'listen', '3.0.8'
+gem 'jekyll', "3.2"
+
+group :development do
+  gem 'rake'
+end
