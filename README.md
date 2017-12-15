@@ -29,9 +29,7 @@ This project contains standalone executables for Jekyll 3.2.0, running on a bund
 
     ```shell
     $ jekyll-3.2.0-osx.tgz/jekyll --version
-    A subcommand is required.
-    jekyll 3.2.0 -- Jekyll is a blog-aware, static site generator in Ruby
-    [...snip...]
+    jekyll 3.2.0
     ```
 
     > NOTE: The above examples use the OSX version. For Linux versions everything is the same, but `{platform}` in all strings like `jekyll-3.2.0-{platform}` should be replaced with the appropriate platform; `linux-x86` or `linux-x86_64`
