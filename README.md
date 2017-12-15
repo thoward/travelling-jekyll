@@ -7,14 +7,14 @@ This project contains standalone executables for Jekyll 3.2.0, running on a bund
 ## How to Use
 
 1. Download the release tarball that is correct for your platform:
-    * OSX: https://github.com/thoward/traveling-jekyll/archive/jekyll-3.2.0-osx.tgz
-    * Linux x86: https://github.com/thoward/traveling-jekyll/archive/jekyll-3.2.0-linux-x86.tgz
-    * Linux x86_64: https://github.com/thoward/traveling-jekyll/archive/jekyll-3.2.0-linux-x86_64.tgz
+    * OSX: [jekyll-3.2.0-osx.tgz](https://github.com/thoward/travelling-jekyll/releases/download/1.0/jekyll-3.2.0-osx.tgz)
+    * Linux x86: [jekyll-3.2.0-linux-x86.tgz](https://github.com/thoward/travelling-jekyll/releases/download/1.0/jekyll-3.2.0-linux-x86.tgz)
+    * Linux x86_64: [jekyll-3.2.0-linux-x86_64.tgz](https://github.com/thoward/travelling-jekyll/releases/download/1.0/jekyll-3.2.0-linux-x86_64.tgz)
    
     *Example: Downloading the OSX version*
 
     ```shell
-    $ wget https://github.com/thoward/traveling-jekyll/archive/jekyll-3.2.0-osx.tgz
+    $ wget https://github.com/thoward/travelling-jekyll/releases/download/1.0/jekyll-3.2.0-osx.tgz
     ```
 2. Extract the tarball: 
 
